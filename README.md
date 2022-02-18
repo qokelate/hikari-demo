@@ -7,7 +7,7 @@
 
 ### DEMO编译环境如下:
 
-### 1.基于[Hikari](https://github.com/HikariObfuscator/Hikari/tree/release_80)移植(Windows/iOS/macos/Linux),原样保留所有功能
+### 1.基于[Hikari](https://github.com/HikariObfuscator/Hikari/tree/release_80)移植(Windows/iOS/macos/Linux),保留原版所有功能
 
 ### 2.LLVM版本:
 ```
@@ -19,4 +19,4 @@ Thread model: posix
 
 ### 4.本人只关心移植技术, Hikari相关版权属于原作者,侵删.
 
-### 5.可转让相关移植技术,有意可联系`base64: cW9rZWxhdGVAZ21haWwuY29t`
+### 5.可有偿指导相关移植技术,有意可联系`base64: cW9rZWxhdGVAZ21haWwuY29t`
